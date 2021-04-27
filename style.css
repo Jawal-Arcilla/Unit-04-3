@@ -1,0 +1,27 @@
+.container {
+  border: 3px solid salmon;
+  width: 23%;
+  top: 0%;
+  left: 40%;
+  position: fixed;
+  color: salmon;
+}
+
+.header {
+  text-align: center;
+}
+
+.kitty {
+  width: 25%;
+  display: block;
+}
+
+.puppy {
+  width: 25%;
+  float: left;
+  padding: 3px;
+}
+
+.message {
+  color: blue;
+}
